@@ -6,5 +6,5 @@ If you are interested in our work, please contact us.
 You can find all important information on our [website](https://www.tugracing.at/)! 
 
 ## For Team Members
-To work on your project and get access to our repositories please contact your module leader. 
-He will not only invite you to our organization, he will also assign you to the right team so that you can get started with your project as quickly and smoothly as possible.
+To work on your project and get access to our repositories please contact your module leaders. 
+They will not only invite you to our organization, they will also assign you to the right team so that you can get started with your project as quickly and smoothly as possible.
